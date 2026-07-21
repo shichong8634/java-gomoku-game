@@ -2,7 +2,7 @@
 
 A Java Swing based Gomoku game developed as a group project for Software Development 2.
 
-# My Contribution
+# All Contributors
 
 - Yunlong Wang
 - Jingzu Ge

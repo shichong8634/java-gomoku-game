@@ -2,6 +2,12 @@
 
 A Java Swing based Gomoku game developed as a group project for Software Development 2.
 
+# My Contribution
+
+-Yunlong Wang
+-Jingzu Ge
+-Yutian Wang
+
 ## My Contribution
 
 I(Yunlong Wang) was responsible for:

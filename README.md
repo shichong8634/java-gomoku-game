@@ -4,9 +4,9 @@ A Java Swing based Gomoku game developed as a group project for Software Develop
 
 # My Contribution
 
--Yunlong Wang
--Jingzu Ge
--Yutian Wang
+- Yunlong Wang
+- Jingzu Ge
+- Yutian Wang
 
 ## My Contribution
 
